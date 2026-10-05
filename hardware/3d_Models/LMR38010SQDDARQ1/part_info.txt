@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=LMR38010SQDDARQ1
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=9
+Version=1.1
+Released=2024-02-28 09:58:21
+Downloaded=2026-09-29 14:21:21
+3D=Y

@@ -1,0 +1,475 @@
+(kicad_symbol_lib (version 20241209) (generator "kicad_symbol_editor")
+(symbol "LMR38010SQDDARQ1" (pin_names (offset 0.8)) (in_bom yes) (on_board yes)
+      (property "Reference" "U" (at 0 18 0) (effects (font (size 1.0 1.0)) )) (property "Value" "LMR38010SQDDARQ1" (at 0 15.5 0) (effects (font (size 1.0 1.0)) ))
+      (property "Footprint" "BLE_CAN:TI_DDA0008B_PowerPAD" (at 0 0 0) (effects (font (size 1.0 1.0)) (hide yes) )) (property "Datasheet" "https://www.ti.com/lit/ds/symlink/lmr38010-q1.pdf" (at 0 0 0) (effects (font (size 1.0 1.0)) (hide yes) ))
+      (property "Description" "80 V, 1 A automotive synchronous buck; PFM; exposed pad = 9" (at 0 0 0) (effects (font (size 1.0 1.0)) (hide yes) ))
+      (symbol "LMR38010SQDDARQ1_0_1" (rectangle (start -10.16 12.7) (end 10.16 -12.7) (stroke (width 0.254) (type default)) (fill (type background))))
+      (symbol "LMR38010SQDDARQ1_1_1" (pin power_in line (at -15.24 7.62 0) (length 5.08) (name "VIN" (effects (font (size 1.0 1.0)) )) (number "3" (effects (font (size 1.0 1.0)) )))
+(pin input line (at -15.24 0 0) (length 5.08) (name "EN" (effects (font (size 1.0 1.0)) )) (number "2" (effects (font (size 1.0 1.0)) )))
+(pin input line (at -15.24 -7.62 0) (length 5.08) (name "RT/SYNC" (effects (font (size 1.0 1.0)) )) (number "4" (effects (font (size 1.0 1.0)) )))
+(pin passive line (at 15.24 7.62 180) (length 5.08) (name "BOOT" (effects (font (size 1.0 1.0)) )) (number "7" (effects (font (size 1.0 1.0)) )))
+(pin output line (at 15.24 2.54 180) (length 5.08) (name "SW" (effects (font (size 1.0 1.0)) )) (number "8" (effects (font (size 1.0 1.0)) )))
+(pin input line (at 15.24 -5.08 180) (length 5.08) (name "FB" (effects (font (size 1.0 1.0)) )) (number "5" (effects (font (size 1.0 1.0)) )))
+(pin open_collector line (at 15.24 -10.16 180) (length 5.08) (name "PG" (effects (font (size 1.0 1.0)) )) (number "6" (effects (font (size 1.0 1.0)) )))
+(pin power_in line (at -2.54 -17.78 90) (length 5.08) (name "GND" (effects (font (size 1.0 1.0)) )) (number "1" (effects (font (size 1.0 1.0)) )))
+(pin power_in line (at 2.54 -17.78 90) (length 5.08) (name "EP" (effects (font (size 1.0 1.0)) )) (number "9" (effects (font (size 1.0 1.0)) )))
+))
+(symbol "TPS7B8133QDGNRQ1" (pin_names (offset 0.8)) (in_bom yes) (on_board yes)
+      (property "Reference" "U" (at 0 18 0) (effects (font (size 1.0 1.0)) )) (property "Value" "TPS7B8133QDGNRQ1" (at 0 15.5 0) (effects (font (size 1.0 1.0)) ))
+      (property "Footprint" "BLE_CAN:TI_DGN0008G_PowerPAD" (at 0 0 0) (effects (font (size 1.0 1.0)) (hide yes) )) (property "Datasheet" "https://www.ti.com/lit/ds/symlink/tps7b81-q1.pdf" (at 0 0 0) (effects (font (size 1.0 1.0)) (hide yes) ))
+      (property "Description" "Fixed 3.3 V automotive LDO; 150 mA device; DGN pinout" (at 0 0 0) (effects (font (size 1.0 1.0)) (hide yes) ))
+      (symbol "TPS7B8133QDGNRQ1_0_1" (rectangle (start -12.7 12.7) (end 12.7 -12.7) (stroke (width 0.254) (type default)) (fill (type background))))
+      (symbol "TPS7B8133QDGNRQ1_1_1" (pin power_in line (at -17.78 7.62 0) (length 5.08) (name "IN" (effects (font (size 1.0 1.0)) )) (number "1" (effects (font (size 1.0 1.0)) )))
+(pin input line (at -17.78 2.54 0) (length 5.08) (name "EN" (effects (font (size 1.0 1.0)) )) (number "2" (effects (font (size 1.0 1.0)) )))
+(pin no_connect line (at -17.78 -5.08 0) (length 5.08) (name "NC" (effects (font (size 1.0 1.0)) )) (number "3" (effects (font (size 1.0 1.0)) )))
+(pin power_out line (at 17.78 7.62 180) (length 5.08) (name "OUT" (effects (font (size 1.0 1.0)) )) (number "8" (effects (font (size 1.0 1.0)) )))
+(pin no_connect line (at 17.78 -5.08 180) (length 5.08) (name "NC" (effects (font (size 1.0 1.0)) )) (number "7" (effects (font (size 1.0 1.0)) )))
+(pin power_in line (at -7.62 -17.78 90) (length 5.08) (name "GND" (effects (font (size 1.0 1.0)) )) (number "4" (effects (font (size 1.0 1.0)) )))
+(pin power_in line (at -2.54 -17.78 90) (length 5.08) (name "GND" (effects (font (size 1.0 1.0)) )) (number "5" (effects (font (size 1.0 1.0)) )))
+(pin power_in line (at 2.54 -17.78 90) (length 5.08) (name "GND" (effects (font (size 1.0 1.0)) )) (number "6" (effects (font (size 1.0 1.0)) )))
+(pin power_in line (at 7.62 -17.78 90) (length 5.08) (name "EP" (effects (font (size 1.0 1.0)) )) (number "9" (effects (font (size 1.0 1.0)) )))
+))
+(symbol "Vehicle_Input_2Pin" (pin_names (offset 0.8)) (in_bom yes) (on_board yes)
+      (property "Reference" "J" (at 0 18 0) (effects (font (size 1.0 1.0)) )) (property "Value" "Vehicle_Input_2Pin" (at 0 15.5 0) (effects (font (size 1.0 1.0)) ))
+      (property "Footprint" "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MPT-0,5-2-2.54_1x02_P2.54mm_Horizontal" (at 0 0 0) (effects (font (size 1.0 1.0)) (hide yes) )) (property "Datasheet" "https://www.phoenixcontact.com/en-nl/products/pcb-terminal-block-mpt-05-2-254-1725656" (at 0 0 0) (effects (font (size 1.0 1.0)) (hide yes) ))
+      (property "Description" "2-pin vehicle input, pin 1 positive, pin 2 return" (at 0 0 0) (effects (font (size 1.0 1.0)) (hide yes) ))
+      (symbol "Vehicle_Input_2Pin_0_1" (rectangle (start -5.08 5.08) (end 0 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
+      (symbol "Vehicle_Input_2Pin_1_1" (pin passive line (at 5.08 0 180) (length 5.08) (name "+" (effects (font (size 1.0 1.0)) )) (number "1" (effects (font (size 1.0 1.0)) )))
+(pin passive line (at 5.08 -5.08 180) (length 5.08) (name "-" (effects (font (size 1.0 1.0)) )) (number "2" (effects (font (size 1.0 1.0)) )))
+))
+	(symbol "LM66100QDCKRQ1"
+		(pin_names
+			(offset 0.8)
+		)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "U"
+			(at 0 18 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+		)
+		(property "Value" "LM66100QDCKRQ1"
+			(at 0 15.5 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+		)
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-363_SC-70-6"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/lm66100-q1.pdf"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "AEC-Q100 5.5 V 1.5 A ideal diode with RPP; CE comparator; ST open-drain status; DCK SC-70-6"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(hide yes)
+			)
+		)
+		(symbol "LM66100QDCKRQ1_0_1"
+			(rectangle
+				(start -10.16 10.16)
+				(end 10.16 -10.16)
+				(stroke
+					(width 0.254)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+		)
+		(symbol "LM66100QDCKRQ1_1_1"
+			(pin passive line
+				(at -15.24 5.08 0)
+				(length 5.08)
+				(name "VIN"
+					(effects
+						(font
+							(size 1 1)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 1 1)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at 0 -15.24 90)
+				(length 5.08)
+				(name "GND"
+					(effects
+						(font
+							(size 1 1)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1 1)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at -15.24 -5.08 0)
+				(length 5.08)
+				(name "~{CE}"
+					(effects
+						(font
+							(size 1 1)
+						)
+					)
+				)
+				(number "3"
+					(effects
+						(font
+							(size 1 1)
+						)
+					)
+				)
+			)
+			(pin no_connect line
+				(at 15.24 -7.62 180)
+				(length 5.08)
+				(name "NC"
+					(effects
+						(font
+							(size 1 1)
+						)
+					)
+				)
+				(number "4"
+					(effects
+						(font
+							(size 1 1)
+						)
+					)
+				)
+			)
+			(pin open_collector line
+				(at 15.24 -2.54 180)
+				(length 5.08)
+				(name "~{ST}"
+					(effects
+						(font
+							(size 1 1)
+						)
+					)
+				)
+				(number "5"
+					(effects
+						(font
+							(size 1 1)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 15.24 5.08 180)
+				(length 5.08)
+				(name "VOUT"
+					(effects
+						(font
+							(size 1 1)
+						)
+					)
+				)
+				(number "6"
+					(effects
+						(font
+							(size 1 1)
+						)
+					)
+				)
+			)
+		)
+		(embedded_fonts no)
+	)
+	(symbol "TPS7E8130QDBVRQ1"
+		(pin_names
+			(offset 0.8)
+		)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "U"
+			(at 0 18 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+		)
+		(property "Value" "TPS7E8130QDBVRQ1"
+			(at 0 15.5 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+		)
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-5"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/tps7e81-q1.pdf"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "AEC-Q100 fixed 3.0 V 150 mA ultra-low-IQ LDO, VIN 3-40 V; DBV SOT-23-5"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(hide yes)
+			)
+		)
+		(symbol "TPS7E8130QDBVRQ1_0_1"
+			(rectangle
+				(start -10.16 10.16)
+				(end 10.16 -10.16)
+				(stroke
+					(width 0.254)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+		)
+		(symbol "TPS7E8130QDBVRQ1_1_1"
+			(pin power_in line
+				(at -15.24 5.08 0)
+				(length 5.08)
+				(name "IN"
+					(effects
+						(font
+							(size 1 1)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 1 1)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at 0 -15.24 90)
+				(length 5.08)
+				(name "GND"
+					(effects
+						(font
+							(size 1 1)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1 1)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at -15.24 -5.08 0)
+				(length 5.08)
+				(name "EN"
+					(effects
+						(font
+							(size 1 1)
+						)
+					)
+				)
+				(number "3"
+					(effects
+						(font
+							(size 1 1)
+						)
+					)
+				)
+			)
+			(pin no_connect line
+				(at 15.24 -5.08 180)
+				(length 5.08)
+				(name "NC"
+					(effects
+						(font
+							(size 1 1)
+						)
+					)
+				)
+				(number "4"
+					(effects
+						(font
+							(size 1 1)
+						)
+					)
+				)
+			)
+			(pin power_out line
+				(at 15.24 5.08 180)
+				(length 5.08)
+				(name "OUT"
+					(effects
+						(font
+							(size 1 1)
+						)
+					)
+				)
+				(number "5"
+					(effects
+						(font
+							(size 1 1)
+						)
+					)
+				)
+			)
+		)
+		(embedded_fonts no)
+	)
+	(symbol "Battery_Input_2Pin"
+		(pin_names
+			(offset 0.8)
+		)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "J"
+			(at 0 18 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+		)
+		(property "Value" "Battery_Input_2Pin"
+			(at 0 15.5 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+		)
+		(property "Footprint" "Connector_JST:JST_PH_S2B-PH-K_1x02_P2.00mm_Horizontal"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.jst-mfg.com/product/pdf/eng/ePH.pdf"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Polarized 1S battery pack connector, pin 1 positive, pin 2 return"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(hide yes)
+			)
+		)
+		(symbol "Battery_Input_2Pin_0_1"
+			(rectangle
+				(start -5.08 5.08)
+				(end 0 -7.62)
+				(stroke
+					(width 0.254)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+		)
+		(symbol "Battery_Input_2Pin_1_1"
+			(pin passive line
+				(at 5.08 0 180)
+				(length 5.08)
+				(name "+"
+					(effects
+						(font
+							(size 1 1)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 1 1)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 5.08 -5.08 180)
+				(length 5.08)
+				(name "-"
+					(effects
+						(font
+							(size 1 1)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1 1)
+						)
+					)
+				)
+			)
+		)
+		(embedded_fonts no)
+	)
+)

@@ -1,0 +1,18 @@
+.LMR38010SQDDARQ1 :1 ;Switching Voltage Regulators Automotive SIMPLE SWITCHER&reg; 4.2-V to 80-V, 1-A synchronous buck converter 8-SO PowerPAD -40 to 150
+SOIC127P600X170-9N
+*STM IC
+*NGS
+*PLB 1="GND" 2="EN" 3="VIN" 4="RT/SYNC" 5="FB" 6="PG" 7="BOOT" 8="SW" 9="EP"
+*MXP 9
+*DFN LMR38010SQDDARQ1
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (LMR38010SQDDARQ1)
+~!Mouser Part Number (595-LMR38010SQDDARQ1)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Texas-Instruments/LMR38010SQDDARQ1?qs=ulEaXIWI0c%252Bo2sOa0nHa%252Bw%3D%3D)
+~!Arrow Part Number (LMR38010SQDDARQ1)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/lmr38010sqddarq1/texas-instruments?utm_currency=USD&region=nac)
+~!Link Datasheet (https://www.ti.com/lit/ds/symlink/lmr38010-q1.pdf?ts=1705057277667&ref_url=https%253A%252F%252Fwww.mouser.it%252F)
+~!Height (1.7mm)
+~!3D_Model (LMR38010SQDDARQ1)
+LMR38010SQDDARQ1
+1.1!U 2.1!U 3.1!U 4.1!U 9.1!U 8.1!U 7.1!U 6.1!U 5.1!U 

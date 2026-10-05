@@ -1,0 +1,9 @@
+Manufacturer=SCHURTER
+PartNumber=3403.0166.24
+PartCategory=Fuse
+PackageCategory=Other
+PinCount=2
+Version=5.2
+Released=2022-03-18 10:49:59
+Downloaded=2026-09-29 05:51:25
+3D=Y

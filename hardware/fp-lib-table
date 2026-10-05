@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "BLE_CAN")(type "KiCad")(uri "${KIPRJMOD}/libraries/BLE_CAN.pretty")(options "")(descr "Project-local TI RKP0040B manufacturer footprint"))
+  (lib (name "RF_BLE_PCBFootprints")(type "KiCad")(uri "${KIPRJMOD}/libraries/RF_BLE_PCBFootprints.pretty")(options "")(descr "TDK RF filter footprint with project-local STEP model"))
+)

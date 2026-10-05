@@ -1,0 +1,18 @@
+.TPS7B8133QDGNRQ1 :1 ;LDO Voltage Regulators LDO
+SOP65P490X110-9N
+*STM IC
+*NGS
+*PLB 1="IN" 2="EN" 3="NC_1" 4="GND_1" 5="GND_2" 6="GND_3" 7="NC_2" 8="OUT" 9="EP"
+*MXP 9
+*DFN TPS7B8133QDGNRQ1
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (TPS7B8133QDGNRQ1)
+~!Mouser Part Number (595-TPS7B8133QDGNRQ1)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TPS7B8133QDGNRQ1?qs=%252B6g0mu59x7IqdAmnBzYlcw%3D%3D)
+~!Arrow Part Number (TPS7B8133QDGNRQ1)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/tps7b8133qdgnrq1/texas-instruments.html?utm_currency=USD&region=nac)
+~!Link Datasheet (https://www.ti.com/lit/gpn/TPS7B81-Q1)
+~!Height (1.1mm)
+~!3D_Model (TPS7B8133QDGNRQ1)
+TPS7B8133QDGNRQ1
+1.1!U 2.1!U 3.1!U 4.1!U 9.1!U 8.1!U 7.1!U 6.1!U 5.1!U 

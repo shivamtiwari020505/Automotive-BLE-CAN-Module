@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'EEEFK2A220P'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Panasonic", "EEEFK2A220P" (!) = "", "EEHZT1E331UP", "Other", "", "", "EEEFK2A220P", "https://www.arrow.com/en/products/eee-fk2a220p/panasonic", "Panasonic 22F +/-20% 1.3 100 V F SMD Metal Can Aluminium Electrolytic Capacitor", "http://industrial.panasonic.com/cdbs/www-data/pdf/RDE0000/ABA0000C1181.pdf", "10.8 mm"
+END_PART
+
+END.

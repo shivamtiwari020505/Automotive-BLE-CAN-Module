@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 3403.0166.24
+D UMT 250 Fuse T 1A L 250V AC
+K
+F https://www.schurter.com/en/datasheet/UMT_250
+$ENDCMP
+#
+#End Doc Library

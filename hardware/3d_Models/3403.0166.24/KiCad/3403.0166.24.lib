@@ -1,0 +1,26 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model 3403.0166.24
+#/15665741/2175241/2.50/2/2/Fuse
+DEF 3403.0166.24 F 0 30 Y Y 1 F N
+F0 "F" 550 250 50 H V L CNN
+F1 "3403.0166.24" 550 150 50 H V L CNN
+F2 "3403016624" 550 50 50 H I L CNN
+F3 "https://www.schurter.com/en/datasheet/UMT_250" 550 -50 50 H I L CNN
+F4 "UMT 250 Fuse T 1A L 250V AC" 550 -150 50 H I L CNN "Description"
+F5 "3" 550 -250 50 H I L CNN "Height"
+F6 "SCHURTER" 550 -350 50 H I L CNN "Manufacturer_Name"
+F7 "3403.0166.24" 550 -450 50 H I L CNN "Manufacturer_Part_Number"
+F8 "693-3403.0166.24" 550 -550 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/Schurter/3403.0166.24?qs=WtG364jHAdwL4lK1GD3AKQ%3D%3D" 550 -650 50 H I L CNN "Mouser Price/Stock"
+F10 "3403.0166.24" 550 -750 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/3403.0166.24/schurter?region=asia" 550 -850 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X ~ 1 0 0 200 R 50 50 0 0 P
+X ~ 2 700 0 200 L 50 50 0 0 P
+P 5 0 1 6 200 50 500 50 500 -50 200 -50 200 50 N
+P 2 0 1 6 200 0 500 0 N
+ENDDRAW
+ENDDEF
+#
+#End Library

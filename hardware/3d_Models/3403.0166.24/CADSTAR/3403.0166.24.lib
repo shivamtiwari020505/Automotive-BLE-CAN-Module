@@ -1,0 +1,18 @@
+.3403.0166.24 :1 ;UMT 250 Fuse T 1A L 250V AC
+"3403016624"
+*STM F
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN 3403.0166.24
+~!Manufacturer_Name (SCHURTER)
+~!Manufacturer_Part_Number (3403.0166.24)
+~!Mouser Part Number (693-3403.0166.24)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Schurter/3403.0166.24?qs=WtG364jHAdwL4lK1GD3AKQ%3D%3D)
+~!Arrow Part Number (3403.0166.24)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/3403.0166.24/schurter?region=asia)
+~!Link Datasheet (https://www.schurter.com/en/datasheet/UMT_250)
+~!Height (3mm)
+~!3D_Model (3403.0166.24)
+"3403.0166.24"
+1.1!U 2.1!U 

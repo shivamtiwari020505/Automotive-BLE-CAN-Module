@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'LMR38010SQDDARQ1'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Texas Instruments", "LMR38010SQDDARQ1" (!) = "", "SOIC127P600X170-9N", "Small Outline Packages", "595-LMR38010SQDDARQ1", "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/LMR38010SQDDARQ1?qs=ulEaXIWI0c%252Bo2sOa0nHa%252Bw%3D%3D", "LMR38010SQDDARQ1", "https://www.arrow.com/en/products/lmr38010sqddarq1/texas-instruments?utm_currency=USD&region=nac", "Switching Voltage Regulators Automotive SIMPLE SWITCHER&reg; 4.2-V to 80-V, 1-A synchronous buck converter 8-SO PowerPAD -40 to 150", "https://www.ti.com/lit/ds/symlink/lmr38010-q1.pdf?ts=1705057277667&ref_url=https%253A%252F%252Fwww.mouser.it%252F", "1.7 mm"
+END_PART
+
+END.

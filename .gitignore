@@ -1,0 +1,9 @@
+# KiCad machine-local state and generated indexes
+*.kicad_prl
+fp-info-cache
+*-backups/
+*.lck
+~*.lck
+
+# Local development session records
+ai_logs/

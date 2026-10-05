@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'TPS7B8133QDGNRQ1'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Texas Instruments", "TPS7B8133QDGNRQ1" (!) = "", "SOP65P490X110-9N", "Small Outline Packages", "595-TPS7B8133QDGNRQ1", "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TPS7B8133QDGNRQ1?qs=%252B6g0mu59x7IqdAmnBzYlcw%3D%3D", "TPS7B8133QDGNRQ1", "https://www.arrow.com/en/products/tps7b8133qdgnrq1/texas-instruments.html?utm_currency=USD&region=nac", "LDO Voltage Regulators LDO", "https://www.ti.com/lit/gpn/TPS7B81-Q1", "1.1 mm"
+END_PART
+
+END.

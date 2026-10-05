@@ -1,0 +1,18 @@
+.EEEFK2A220P :1 ;Panasonic 22F +/-20% 1.3 100 V F SMD Metal Can Aluminium Electrolytic Capacitor
+EEHZT1E331UP
+*STM C
+*NGS
+*PLB 1="+" 2="-"
+*MXP 2
+*DFN EEEFK2A220P
+~!Manufacturer_Name (Panasonic)
+~!Manufacturer_Part_Number (EEEFK2A220P)
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Arrow Part Number (EEEFK2A220P)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/eee-fk2a220p/panasonic)
+~!Link Datasheet (http://industrial.panasonic.com/cdbs/www-data/pdf/RDE0000/ABA0000C1181.pdf)
+~!Height (10.8mm)
+~!3D_Model (EEEFK2A220P)
+EEEFK2A220P
+1.1!U 2.1!U 

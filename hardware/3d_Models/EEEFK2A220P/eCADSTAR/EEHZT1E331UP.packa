@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "EEEFK2A220P"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2023-07-12-10:33:20)
+    (mountForm default
+        (footprintRef "EEHZT1E331UP")
+        (spec "System")
+    )
+)
