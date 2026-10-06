@@ -5,5 +5,4 @@ fp-info-cache
 *.lck
 ~*.lck
 
-# Local development session records
-ai_logs/
+
