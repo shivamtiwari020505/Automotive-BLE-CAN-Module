@@ -1,5 +1,19 @@
 # Automotive BLE-CAN Module
 
+## PCB views
+
+### TOP PCB
+
+![TOP PCB](documentation/pcb/pcb-3d-top.png)
+
+### Isometric PCB view
+
+![Isometric PCB view](documentation/pcb/pcb-3d-isometric.png)
+
+### Bottom PCB
+
+![Bottom PCB](documentation/pcb/pcb-3d-bottom.png)
+
 A four-layer hardware design that connects a vehicle CAN bus to a Bluetooth Low Energy (BLE) interface. The module accepts a 9–36 V vehicle supply and has a separate input for a protected, externally charged 1-cell backup battery. During backup operation, the BLE section remains powered while CAN is unavailable.
 
 This repository is a design snapshot for review and prototyping. It has not been fabricated or electrically tested, and the open items below must be resolved before a fabrication release.
